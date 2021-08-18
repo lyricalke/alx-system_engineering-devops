@@ -1,1 +1,1 @@
-shell basics repo
+prints the current work directory
