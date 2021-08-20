@@ -1,1 +1,1 @@
-explaining what all the scripts are doing
+shell permissions scripts
