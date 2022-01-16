@@ -1,1 +1,1 @@
-print work directory
+shell basics repo project
